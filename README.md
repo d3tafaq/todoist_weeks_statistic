@@ -20,4 +20,5 @@ It combines number of completed tasks under parent project
 # ToDo
 - Add DB support
 - Add ability to select week 
+- Move to new todoist API lib
 
